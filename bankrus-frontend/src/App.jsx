@@ -52,7 +52,7 @@ function App() {
   return (
     <main className="container">
       <h1>Bank-R-Us</h1>
-      <p className="description">Ansök om lån genom att fylla i formuläret nedan.</p>
+      <p className="description">Ansök om lån genom att fylla i det fina formuläret nedan.</p>
 
       <form onSubmit={onSubmit} className="loan-form">
         <label htmlFor="ssn">Personnummer</label>
